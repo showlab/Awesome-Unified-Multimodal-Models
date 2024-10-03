@@ -21,6 +21,17 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Paper List
++ [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (Sep. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
+  [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
+
++ [MIO: A Foundation Model on Multimodal Tokens](https://arxiv.org/abs/2409.17692) (Sep. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.17692)
+
++ [MonoFormer: One Transformer for Both Diffusion and Autoregression](https://arxiv.org/abs/2409.16280) (Sep. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.16280)
+  [![Star](https://img.shields.io/github/stars/MonoFormer/MonoFormer.svg?style=social&label=Star)](https://github.com/MonoFormer/MonoFormer)
+
 + [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) (Sep. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.04429)
 
