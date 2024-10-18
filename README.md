@@ -21,6 +21,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Paper List
++ [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) (Oct. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
+  [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
+  
 + [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (Sep. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
   [![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star)](https://github.com/baaivision/Emu3)
