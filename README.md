@@ -126,3 +126,6 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 
++ [Multimodal unified attention networks for vision-and-language interactions](https://arxiv.org/abs/1908.04107) (Aug. 2019)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1908.04107)
+
