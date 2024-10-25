@@ -19,8 +19,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 #### :star: If you find this repo useful, please star it!!!
 
+## Table of Contents <!-- omit in toc -->
+- [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
+- [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
+- [Unified Multimodal Understanding and Generation](#unified-multimodal-understanding-and-generation)
 
-### Paper List
+
+
+### Unified Multimodal Understanding and Generation
 + [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.18869)
   [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
@@ -129,3 +135,11 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Multimodal unified attention networks for vision-and-language interactions](https://arxiv.org/abs/1908.04107) (Aug. 2019)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1908.04107)
 
++ [UniMuMo: Unified Text, Music, and Motion Generation](https://arxiv.org/abs/2410.04534) (Oct. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.04534)
+  [![Star](https://img.shields.io/github/stars/hanyangclarence/UniMuMo.svg?style=social&label=Star)](https://github.com/hanyangclarence/UniMuMo)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hanyangclarence.github.io/unimumo_demo/)
+
+
+  + [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](https://arxiv.org/pdf/2409.19684) (Oct. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19684)
