@@ -23,6 +23,7 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Single Model ](#single-model)
+- [Multi Experts](#multi-experts)
 
 
 
@@ -149,3 +150,16 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 + [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](https://arxiv.org/pdf/2409.19684) (Oct. 2024, arXiv)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19684)
+
+
+### Multi Experts
+  + [TaxaBind: A Unified Embedding Space for Ecological Applications](https://arxiv.org/pdf/2411.00683) (Nov. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.00683)
+  [![Star](https://img.shields.io/github/stars/mvrl/TaxaBind.svg?style=social&label=Star)](https://github.com/mvrl/TaxaBind)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vishu26.github.io/taxabind/index.html)
+
+
+
+## Acknowledgements
+
+This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
