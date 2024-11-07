@@ -24,6 +24,7 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Single Model ](#single-model)
 - [Multi Experts](#multi-experts)
+- [Tokenizer](#tokenizers)
 
 
 
@@ -158,6 +159,12 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![Star](https://img.shields.io/github/stars/mvrl/TaxaBind.svg?style=social&label=Star)](https://github.com/mvrl/TaxaBind)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://vishu26.github.io/taxabind/index.html)
 
+
+### Tokenizer
+  + [Cosmos Tokenizer: A suite of image and video neural tokenizers](https://developer.nvidia.com/blog/state-of-the-art-multimodal-generative-ai-model-development-with-nvidia-nemo/) (Nov. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://developer.nvidia.com/blog/state-of-the-art-multimodal-generative-ai-model-development-with-nvidia-nemo/)
+  [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
 
 
 ## Acknowledgements
