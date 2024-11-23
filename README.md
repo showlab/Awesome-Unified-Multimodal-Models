@@ -19,16 +19,23 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 #### :star: If you find this repo useful, please star it!!!
 
-## Table of Contents <!-- omit in toc -->
+<!-- ## Table of Contents <!-- omit in toc -->
 - [Open-source Toolboxes and Foundation Models](#open-source-toolboxes-and-foundation-models)
 - [Evaluation Benchmarks and Metrics](#evaluation-benchmarks-and-metrics)
 - [Single Model ](#single-model)
 - [Multi Experts](#multi-experts)
-- [Tokenizer](#tokenizers)
+- [Tokenizer](#tokenizers) -->
 
 
 
 ### Unified Multimodal Understanding and Generation
+
++ [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) (Nov. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975)
+  [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
+
++ [Spider: Any-to-Many Multimodal LLM](https://arxiv.org/abs/2411.09439) (Nov. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.09439)
 
 + [MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding](https://arxiv.org/pdf/2410.21747) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.21747)
@@ -150,21 +157,21 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 + [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](https://arxiv.org/pdf/2409.19684) (Oct. 2024, arXiv)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19684)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19684)
 
 
-### Multi Experts
+<!-- ### Multi Experts
   + [TaxaBind: A Unified Embedding Space for Ecological Applications](https://arxiv.org/pdf/2411.00683) (Nov. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.00683)
   [![Star](https://img.shields.io/github/stars/mvrl/TaxaBind.svg?style=social&label=Star)](https://github.com/mvrl/TaxaBind)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://vishu26.github.io/taxabind/index.html)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vishu26.github.io/taxabind/index.html) -->
 
 
-### Tokenizer
+<!-- ### Tokenizer
   + [Cosmos Tokenizer: A suite of image and video neural tokenizers](https://developer.nvidia.com/blog/state-of-the-art-multimodal-generative-ai-model-development-with-nvidia-nemo/) (Nov. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://developer.nvidia.com/blog/state-of-the-art-multimodal-generative-ai-model-development-with-nvidia-nemo/)
   [![Star](https://img.shields.io/github/stars/NVIDIA/Cosmos-Tokenizer.svg?style=social&label=Star)](https://github.com/NVIDIA/Cosmos-Tokenizer)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-tokenizer/) -->
 
 
 ## Acknowledgements
