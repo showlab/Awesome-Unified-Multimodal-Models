@@ -31,6 +31,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Unified Multimodal Understanding and Generation
 
++ [MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding](https://www.arxiv.org/abs/2411.17762) (Nov. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.17762)
+
 + [JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2411.07975) (Nov. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.07975)
   [![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star)](https://github.com/deepseek-ai/Janus)
