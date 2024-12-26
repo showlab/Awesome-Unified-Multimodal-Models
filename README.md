@@ -186,6 +186,8 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [MedViLaM: A multimodal large language model with advanced generalizability and explainability for medical data understanding and generation](https://arxiv.org/pdf/2409.19684) (Oct. 2024, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.19684)
 
++ [ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions](https://arxiv.org/pdf/2412.01987) (Dec. 2024, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.01987)
 
 <!-- ### Multi Experts
   + [TaxaBind: A Unified Embedding Space for Ecological Applications](https://arxiv.org/pdf/2411.00683) (Nov. 2024, arXiv)
