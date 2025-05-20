@@ -56,10 +56,6 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.01934v1)
   [![Star](https://img.shields.io/github/stars/illume-unified-mllm/ILLUME_plus.svg?style=social&label=Star)](https://github.com/illume-unified-mllm/ILLUME_plus)
 
-+ [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2503.21979v1) (Mar. 2025, arXiv)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21979v1)
-  [![Star](https://img.shields.io/github/stars/wusize/Harmon.svg?style=social&label=Star)](https://github.com/wusize/Harmon)
-
 + [UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning](https://arxiv.org/pdf/2503.21193v1) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21193v1)
 
