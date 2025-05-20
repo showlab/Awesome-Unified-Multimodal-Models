@@ -56,10 +56,16 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2503.21979v1) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21979v1)
   [![Star](https://github.com/wusize/Harmon.svg?style=social&label=Star)](https://github.com/wusize/Harmon)
++ [ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](https://arxiv.org/pdf/2504.01934v1) (Apr. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.01934v1)
+  [![Star](https://img.shields.io/github/stars/illume-unified-mllm/ILLUME_plus.svg?style=social&label=Star)](https://github.com/illume-unified-mllm/ILLUME_plus)
+
++ [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2503.21979v1) (Mar. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21979v1)
+  [![Star](https://img.shields.io/github/stars/wusize/Harmon.svg?style=social&label=Star)](https://github.com/wusize/Harmon)
 
 + [UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning](https://arxiv.org/pdf/2503.21193v1) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21193v1)
-
 
 + [OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models](https://arxiv.org/abs/2503.08686) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08686)
@@ -74,6 +80,9 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [UniTok: A Unified Tokenizer for Visual Generation and Understanding](https://arxiv.org/abs/2502.20321) (Feb. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.20321)
   [![Star](https://img.shields.io/github/stars/FoundationVision/UniTok.svg?style=social&label=Star)](https://github.com/FoundationVision/UniTok)
+
++ [HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](https://arxiv.org/abs/2501.14729) (Jan. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.14729)
 
 + [Dual Diffusion for Unified Image Generation and Understanding](https://www.arxiv.org/abs/2501.00289) (Jan. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2501.00289)
