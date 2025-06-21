@@ -30,6 +30,14 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Unified Multimodal Understanding and Generation
++ [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (May. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15564)
+  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
+
++ [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) (May. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14683)
+  [![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star)](https://github.com/bytedance-seed/BAGEL)
+
 + [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2505.14682v1) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.14682v1)
 
@@ -54,6 +62,7 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [Harmonizing Visual Representations for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2503.21979v1) (Mar. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2503.21979v1)
   [![Star](https://github.com/wusize/Harmon.svg?style=social&label=Star)](https://github.com/wusize/Harmon)
+
 + [ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](https://arxiv.org/pdf/2504.01934v1) (Apr. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.01934v1)
   [![Star](https://img.shields.io/github/stars/illume-unified-mllm/ILLUME_plus.svg?style=social&label=Star)](https://github.com/illume-unified-mllm/ILLUME_plus)
