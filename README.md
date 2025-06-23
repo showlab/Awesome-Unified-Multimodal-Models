@@ -45,6 +45,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.09568v1)
   [![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star)](https://github.com/JiuhaiChen/BLIP3o)
 
++ [TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](https://arxiv.org/pdf/2505.05422) (May. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.05422)
+  [![Star](https://img.shields.io/github/stars/TencentARC/TokLIP.svg?style=social&label=Star)](https://github.com/TencentARC/TokLIP)
+
 + [Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](https://arxiv.org/pdf/2505.02471v1) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.02471v1)
   [![Star](https://img.shields.io/github/stars/inclusionAI/Ming.svg?style=social&label=Star)](https://github.com/inclusionAI/Ming/tree/main/Ming-unify)
