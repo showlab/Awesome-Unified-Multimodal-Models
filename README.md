@@ -30,6 +30,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Unified Multimodal Understanding and Generation
++ [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18871)
+  [![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/OmniGen2)
+
 + [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15564)
   [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
