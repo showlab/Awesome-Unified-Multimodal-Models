@@ -30,7 +30,11 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Unified Multimodal Understanding and Generation
-+ [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (May. 2025, arXiv)
++ [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2506.17202) (June. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.17202)
+  [![Star](https://img.shields.io/github/stars/tliby/UniFork.svg?style=social&label=Star)](https://github.com/tliby/UniFork)
+
++ [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (June. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15564)
   [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
