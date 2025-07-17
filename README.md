@@ -30,11 +30,16 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Unified Multimodal Understanding and Generation
+
 + [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18871)
   [![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/OmniGen2)
 
-+ [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (May. 2025, arXiv)
++ [UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation](https://arxiv.org/pdf/2506.17202) (June. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.17202)
+  [![Star](https://img.shields.io/github/stars/tliby/UniFork.svg?style=social&label=Star)](https://github.com/tliby/UniFork)
+
++ [Show-o2: Improved Native Unified Multimodal Models](https://arxiv.org/abs/2506.15564) (June. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.15564)
   [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)
 
@@ -48,6 +53,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 + [BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset](https://arxiv.org/pdf/2505.09568v1) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.09568v1)
   [![Star](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o.svg?style=social&label=Star)](https://github.com/JiuhaiChen/BLIP3o)
+
++ [TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](https://arxiv.org/pdf/2505.05422) (May. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.05422)
+  [![Star](https://img.shields.io/github/stars/TencentARC/TokLIP.svg?style=social&label=Star)](https://github.com/TencentARC/TokLIP)
 
 + [Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](https://arxiv.org/pdf/2505.02471v1) (May. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.02471v1)
