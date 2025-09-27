@@ -31,6 +31,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Unified Multimodal Understanding and Generation
 
++ [Reconstruction Alignment Improves Unified Multimodal Models](https://arxiv.org/abs/2509.07295) (Sep. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07295)
+  [![Star](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment.svg?style=social&label=Star)](https://github.com/HorizonWind2004/reconstruction-alignment)
+
 + [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18871)
   [![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/OmniGen2)
