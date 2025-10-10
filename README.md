@@ -35,6 +35,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07295)
   [![Star](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment.svg?style=social&label=Star)](https://github.com/HorizonWind2004/reconstruction-alignment)
 
++ [Uni-CoT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision](https://arxiv.org/abs/2508.05606) (Oct. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05606)
+  [![Star](https://img.shields.io/github/stars/Fr0zenCrane/UniCoT.svg?style=social&label=Star)](https://github.com/Fr0zenCrane/UniCoT)
+
 + [OmniGen2: Exploration to Advanced Multimodal Generation](https://arxiv.org/abs/2506.18871) (Jun. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.18871)
   [![Star](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2.svg?style=social&label=Star)](https://github.com/VectorSpaceLab/OmniGen2)
