@@ -31,6 +31,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 ### Unified Multimodal Understanding and Generation
 
++ [Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) (Oct. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08673)
+  [![Star](https://img.shields.io/github/stars/KangLiao929/Puffin.svg?style=social&label=Star)](https://github.com/KangLiao929/Puffin)
+
 + [Reconstruction Alignment Improves Unified Multimodal Models](https://arxiv.org/abs/2509.07295) (Sep. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07295)
   [![Star](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment.svg?style=social&label=Star)](https://github.com/HorizonWind2004/reconstruction-alignment)
