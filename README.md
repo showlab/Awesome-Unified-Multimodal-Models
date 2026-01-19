@@ -30,7 +30,10 @@ If you have any suggestions (missing papers, new papers, or typos), please feel 
 
 
 ### Unified Multimodal Understanding and Generation
-
++ [UniGame: Turning a Unified Multimodal Model Into Its Own Adversary](https://arxiv.org/abs/2511.19413) (Nov. 2025, arXiv)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.19413)
+  [![Star](https://img.shields.io/github/stars/AIFrontierLab/UniGame?style=social)](https://img.shields.io/github/stars/AIFrontierLab/UniGame?style=social)
+  
 + [Reconstruction Alignment Improves Unified Multimodal Models](https://arxiv.org/abs/2509.07295) (Sep. 2025, arXiv)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.07295)
   [![Star](https://img.shields.io/github/stars/HorizonWind2004/reconstruction-alignment.svg?style=social&label=Star)](https://github.com/HorizonWind2004/reconstruction-alignment)
